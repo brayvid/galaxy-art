@@ -1,4 +1,4 @@
 # Galaxy Art Project
-This is a Mathematica project to display our neighboring galaxies from the the Sloan Digital Sky Survey in a creative way. Only data from a single octant was used, such that we are positioned in the corner of the data. The galaxy nodes are shown growing in size with their distance from the origin to mimic the expanding universe.
+This is a Mathematica project to display our neighboring galaxies from Sloan Digital Sky Survey data in a creative way. Only data from a single octant and within a defined cone was used, such that we are positioned at the vertex of the data. The entire distribution is shown growing in size with increasing distance from the origin to remind us of the expanding universe. Edges are drawn between nearest nodes to remind us that this a complex gravitationally-connected system.
 
 ![Galaxy Graph Render](render.png)
